@@ -1,2 +1,3 @@
 # nelly
-Soft spoken self driven
+
+Self driven and organized 
